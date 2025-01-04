@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Crepvéant 的博客</title>
+        <link>http://localhost:1313/blog/zh-cn/page/</link>
+        <description>Recent content in Pages on Crepvéant 的博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Crepvéant/黒川梓</copyright>
+        <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/zh-cn/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>存档</title>
+        <link>http://localhost:1313/blog/zh-cn/archives/</link>
+        <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/zh-cn/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>关于咱</title>
+        <link>http://localhost:1313/blog/zh-cn/%E5%85%B3%E4%BA%8E%E5%92%B1/</link>
+        <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/zh-cn/%E5%85%B3%E4%BA%8E%E5%92%B1/</guid>
+        <description>&lt;p&gt;嗨，我是 Crepvéant，初中生，被音乐与程序所吸引，追逐自由，探索世界。&lt;/p&gt;
+&lt;p&gt;我网络马甲一堆，但是我可以在这里爆几个你能知道的😈：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Crepvéant Zeng&lt;/strong&gt;: 我日常生活里用的英文名。
+&lt;em&gt;其实我父母原来去澳门玩顺便给我起了个英文名“Wynn”来着，但是我极其讨厌其寓意，遂改名。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kurokawa Azusa (黒川 梓)&lt;/strong&gt;: 日语名，用于我的 &lt;a class=&#34;link&#34; href=&#34;https://github.com/kuroazusa&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub 第二账户&lt;/a&gt;（及Apple Music听歌用）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;皇城根底下长大的 &lt;del&gt;（AUV您吉祥）&lt;/del&gt;，严格遵守 UTC+8 人类作息时间（实际并不），所以不会在什么太平洋时间上午十点回复你的消息，咱也是要睡觉的。💤&lt;/p&gt;
+&lt;p&gt;喜欢一些温暖的柔软的可可爱爱的东西，然后认为&lt;a class=&#34;link&#34; href=&#34;https://www.mihoyo.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;i&gt;&lt;del&gt;技术宅拯救世界！&lt;/del&gt;&lt;/i&gt;&lt;/a&gt;科技让生活变得更美好。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;狂热且极端的 Apple 粉丝&lt;/strong&gt;，目前正使用的设备是 iPhone Xs Max 和 MacBook Pro Early 2013。&lt;/p&gt;
+&lt;p&gt;正在准备中考并&lt;strong&gt;懒惰&lt;/strong&gt;的空想自己可以进入国际部。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>http://localhost:1313/blog/zh-cn/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/zh-cn/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

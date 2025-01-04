@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Crepvéant&#39;s Blog</title>
+        <link>http://localhost:1313/blog/page/</link>
+        <description>Recent content in Pages on Crepvéant&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Crepvéant/黒川梓</copyright>
+        <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Archives</title>
+        <link>http://localhost:1313/blog/archives/</link>
+        <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>About Me</title>
+        <link>http://localhost:1313/blog/about-me/</link>
+        <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/about-me/</guid>
+        <description>&lt;p&gt;Hi, I&amp;rsquo;m Crepvéant, a middle school student passionate about freedom, music, and programming. Exploring the infinite possibilities of the world.&lt;/p&gt;
+&lt;p&gt;I go by many internet identities—some are secret, but here&amp;rsquo;s what I can share 😈:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Crepvéant Zeng&lt;/strong&gt;: My English name in real life.
+&lt;em&gt;Fun fact—my parents once called me “Wynn” since a trip to Macau, but I’m not a fan of casinos, so I decided to stick with Crepvéant.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kurokawa Azusa (黒川 梓)&lt;/strong&gt;: My Japanese name, which I use for my &lt;a class=&#34;link&#34; href=&#34;https://github.com/kuroazusa&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;private GitHub account&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Born and raised in Beijing. That said, please follow the UTC+8 normal human routine when contacting me—I do need my sleep! 💤&lt;/p&gt;
+&lt;p&gt;I have a soft spot for warm, fluffy, and cute things, which is why I believe that &lt;a class=&#34;link&#34; href=&#34;https://www.mihoyo.com/en&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;i&gt;&lt;del&gt;TECH OTAKUS SAVE THE WORLD!&lt;/del&gt;&lt;/i&gt;&lt;/a&gt; technology will make life even cozier. 🐾&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fanatic (and slightly extreme) Apple fan&lt;/strong&gt;, currently use iPhone Xs Max &amp;amp; MacBook Pro Early 2013.&lt;/p&gt;
+&lt;p&gt;Preparing for the CHSEE (China High School Entrance Exam) and working &lt;strong&gt;LAZY&lt;/strong&gt; to get into the International Department right now.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>http://localhost:1313/blog/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

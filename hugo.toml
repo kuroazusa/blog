@@ -1,0 +1,236 @@
+baseurl = "https://kuroazusa.github.io/blog/"
+languageCode = "en-us"
+theme = "hugo-theme-stack"
+title = "Crepvéant's Blog"
+copyright = "Crepvéant/黒川梓"
+DefaultContentLanguage = "en"
+hasCJKLanguage = true
+
+[languages.en]
+languageName = "English"
+title = "Crepvéant's Blog"
+weight = 1
+
+[languages.en.params.sidebar]
+subtitle = "Life, thoughts, and growth. "
+
+[languages.zh-cn]
+languageName = "中文"
+title = "Crepvéant 的博客"
+weight = 2
+
+[languages.zh-cn.params.sidebar]
+subtitle = "记录生活，想法及成长。"
+
+[languages.ja]
+languageName = "日本語"
+title = "黒川梓のブログ"
+weight = 3
+
+[languages.ja.params.sidebar]
+subtitle = "生活や考え、成長を記録する。"
+
+[services.disqus]
+shortname = "hugo-theme-stack"
+
+[pagination]
+pagerSize = 3
+
+[permalinks]
+post = "/p/:slug/"
+page = "/:slug/"
+
+[params]
+mainSections = [ "post" ]
+featuredImageField = "image"
+rssFullContent = true
+
+  [params.footer]
+  since = 2_024
+
+  [params.dateFormat]
+  published = "Jan 02, 2006"
+  lastUpdated = "Jan 02, 2006 15:04 MST"
+
+  [params.sidebar]
+  emoji = "😴"
+  subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+    [params.sidebar.avatar]
+    enabled = true
+    local = true
+    src = "img/avatar.jpg"
+
+  [params.article]
+  math = false
+  toc = true
+  readingTime = true
+
+    [params.article.license]
+    enabled = true
+    default = "Licensed under CC BY-NC-SA 4.0"
+
+  [params.comments]
+  enabled = true
+  provider = "disqus"
+
+    [params.comments.disqusjs]
+
+    [params.comments.utterances]
+    issueTerm = "pathname"
+
+    [params.comments.beaudar]
+    issueTerm = "pathname"
+
+    [params.comments.remark42]
+
+    [params.comments.vssue]
+    autoCreateIssue = false
+
+    [params.comments.waline]
+    emoji = [ "https://unpkg.com/@waline/emojis@1.0.1/weibo" ]
+    requiredMeta = [ "name", "email", "url" ]
+
+      [params.comments.waline.locale]
+      admin = "Admin"
+
+    [params.comments.twikoo]
+
+    [params.comments.cactus]
+    defaultHomeserverUrl = "https://matrix.cactus.chat:8448"
+    serverName = "cactus.chat"
+    siteName = ""
+
+    [params.comments.giscus]
+    reactionsEnabled = 1
+    emitMetadata = 0
+
+    [params.comments.gitalk]
+
+    [params.comments.cusdis]
+
+[[params.widgets.homepage]]
+type = "search"
+
+[[params.widgets.homepage]]
+type = "archives"
+
+  [params.widgets.homepage.params]
+  limit = 5
+
+[[params.widgets.homepage]]
+type = "categories"
+
+  [params.widgets.homepage.params]
+  limit = 10
+
+[[params.widgets.homepage]]
+type = "tag-cloud"
+
+  [params.widgets.homepage.params]
+  limit = 10
+
+[[params.widgets.page]]
+type = "toc"
+
+[params.opengraph.twitter]
+card = "summary_large_image"
+
+[params.defaultImage.opengraph]
+enabled = false
+local = false
+
+  [params.colorScheme]
+  toggle = true
+  default = "auto"
+
+[params.imageProcessing.cover]
+enabled = true
+
+[params.imageProcessing.content]
+enabled = true
+
+[menu]
+main = [ ]
+
+  [[menu.social]]
+  identifier = "github-c"
+  name = "GitHub - Crepvéant"
+  url = "https://github.com/Crepveant"
+  weight = 1
+    [menu.social.params]
+    icon = "brand-github"
+
+  [[menu.social]]
+  identifier = "github-k"
+  name = "GitHub - 黒川　梓"
+  url = "https://github.com/kuroazusa"
+  weight = 2
+
+    [menu.social.params]
+    icon = "brand-github"
+
+  [[menu.social]]
+  identifier = "youtube"
+  name = "YouTube"
+  url = "https://www.youtube.com/channel/UCwWT0Vpq-TvZps_F4Go96qQ"
+  weight = 3
+
+    [menu.social.params]
+    icon = "brand-youtube"
+
+  [[menu.social]]
+  identifier = "bilibili"
+  name = "Bilibili"
+  url = "https://space.bilibili.com/3493294048807216"
+  weight = 5
+
+    [menu.social.params]
+    icon = "brand-bilibili"
+
+  [[menu.social]]
+  identifier = "discord"
+  name = "Discord"
+  url = "https://discord.com/invite/auyYvz4k"
+  weight = 4
+
+    [menu.social.params]
+    icon = "brand-discord"
+  
+
+[related]
+includeNewer = true
+threshold = 60
+toLower = false
+
+  [[related.indices]]
+  name = "tags"
+  weight = 100
+
+  [[related.indices]]
+  name = "categories"
+  weight = 200
+
+[markup.goldmark.extensions.passthrough]
+enable = true
+
+  [markup.goldmark.extensions.passthrough.delimiters]
+  block = [ [ "\\[", "\\]" ], [ "$$", "$$" ] ]
+  inline = [ [ "\\(", "\\)" ] ]
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.tableOfContents]
+endLevel = 4
+ordered = true
+startLevel = 2
+
+[markup.highlight]
+noClasses = false
+codeFences = true
+guessSyntax = true
+lineNoStart = 1
+lineNos = true
+lineNumbersInTable = true
+tabWidth = 4

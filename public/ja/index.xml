@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>黒川梓のブログ</title>
+        <link>http://localhost:1313/blog/ja/</link>
+        <description>Recent content on 黒川梓のブログ</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <copyright>Crepvéant/黒川梓</copyright>
+        <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/ja/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>アーカイブ</title>
+        <link>http://localhost:1313/blog/ja/archives/</link>
+        <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/ja/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>ブログを再構築</title>
+        <link>http://localhost:1313/blog/ja/p/%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E5%86%8D%E6%A7%8B%E7%AF%89/</link>
+        <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/ja/p/%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E5%86%8D%E6%A7%8B%E7%AF%89/</guid>
+        <description>&lt;img src="http://localhost:1313/blog/p/about-blog-rebuild/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post ブログを再構築" /&gt;&lt;p&gt;要するに、私のブログ、またまた吹っ飛びました。&lt;/p&gt;
+&lt;p&gt;そして、今になってようやく復旧に手をつけました。今回も安定の &lt;code&gt;hugo-theme-stack&lt;/code&gt; を採用しています。CaiJimmyさん、本当に感謝！&lt;/p&gt;
+&lt;p&gt;でも、これってある意味いいこと？かもしれません。最近技術力を磨いて、個人ホームページには &lt;code&gt;Preact&lt;/code&gt; と &lt;code&gt;framer-motion&lt;/code&gt; を使い、新しいデザインにも挑戦しました！&lt;/p&gt;
+&lt;p&gt;しかし、問題は……以前書いた記事が全部消えちゃったんです。&lt;br&gt;
+例のサービス提供会社のおかげで。ちゃんと期限ギリギリで更新したのに！本当に奴らのせいです。😡&lt;/p&gt;
+&lt;p&gt;今回はGitHubにデプロイすることにしました。GitHubが無事なら、ブログも無事なはず！&lt;/p&gt;
+&lt;p&gt;というわけで、また一からやり直しです。&lt;/p&gt;
+&lt;p&gt;頑張ろう。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>自己紹介</title>
+        <link>http://localhost:1313/blog/ja/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/</link>
+        <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/ja/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/</guid>
+        <description>&lt;p&gt;こんにちは、Crepvéantです！音楽やプログラミングに夢中な中学生で、自由を愛しながら世界の無限の可能性を探求しています。&lt;/p&gt;
+&lt;p&gt;インターネット上ではいくつかの名前を使っていますが、その中から公開できるものをご紹介します😈：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Crepvéant Zeng（ゼン・クレプヴェアント）&lt;/strong&gt;：日常生活で使っている英語名です。&lt;br&gt;
+&lt;em&gt;ちなみに、両親がマカオ旅行の際に“Wynn”という英語名を付けてくれましたが、カジノが嫌いな私はこの名前をすぐに却下し、自分でCrepvéantに改名しました。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;黒川 梓（Kurokawa Azusa）&lt;/strong&gt;：私の日本語名です。この名前は &lt;a class=&#34;link&#34; href=&#34;https://github.com/kuroazusa&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;プライベートGitHubアカウント&lt;/a&gt; やApple Musicのアカウントで使用しています。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;北京出身の生粋の北京っ子ですが、UTC+8の人間らしいスケジュール（実際は夜更かし気味）を守っているので、連絡はその時間に合わせてくださいね！💤&lt;/p&gt;
+&lt;p&gt;ふわふわで可愛いものが大好きで、「&lt;a class=&#34;link&#34; href=&#34;http://www.mihoyo.com/en&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;i&gt;&lt;del&gt;TECH OTAKUS SAVE THE WORLD!&lt;/del&gt;&lt;/i&gt;&lt;/a&gt;」と信じています。🐾&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;熱狂的で少し過激なAppleファン&lt;/strong&gt;です。現在はiPhone Xs MaxとMacBook Pro Early 2013を愛用しています。&lt;/p&gt;
+&lt;p&gt;高校入試（中国中考）に向けて準備中ですが、のんびりと国際部進学を夢見ています。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>検索</title>
+        <link>http://localhost:1313/blog/ja/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/ja/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
