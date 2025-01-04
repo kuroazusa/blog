@@ -72,42 +72,20 @@ rssFullContent = true
 
   [params.comments]
   enabled = true
-  provider = "disqus"
-
-    [params.comments.disqusjs]
-
-    [params.comments.utterances]
-    issueTerm = "pathname"
-
-    [params.comments.beaudar]
-    issueTerm = "pathname"
-
-    [params.comments.remark42]
-
-    [params.comments.vssue]
-    autoCreateIssue = false
-
-    [params.comments.waline]
-    emoji = [ "https://unpkg.com/@waline/emojis@1.0.1/weibo" ]
-    requiredMeta = [ "name", "email", "url" ]
-
-      [params.comments.waline.locale]
-      admin = "Admin"
-
-    [params.comments.twikoo]
-
-    [params.comments.cactus]
-    defaultHomeserverUrl = "https://matrix.cactus.chat:8448"
-    serverName = "cactus.chat"
-    siteName = ""
-
+  provider = "giscus"
     [params.comments.giscus]
+    repo = "kuroazusa/blog"
+    repoId = "R_kgDONlumwQ"
+    category = "General"
+    categoryId = "DIC_kwDONlumwc4Cltzl"
+    mapping = "url"
+    strict = 1
     reactionsEnabled = 1
     emitMetadata = 0
-
-    [params.comments.gitalk]
-
-    [params.comments.cusdis]
+    inputPosition = "top"
+    theme = "preferred_color_scheme"
+    lang = "en"
+    loading = "lazy"
 
 [[params.widgets.homepage]]
 type = "search"
