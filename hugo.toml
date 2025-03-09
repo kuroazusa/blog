@@ -75,9 +75,9 @@ rssFullContent = true
   provider = "giscus"
     [params.comments.giscus]
     repo = "kuroazusa/blog"
-    repoId = "R_kgDONlumwQ"
+    repoId = "R_kgDOOFi1pw"
     category = "General"
-    categoryId = "DIC_kwDONlumwc4Cltzl"
+    categoryId = "DIC_kwDOOFi1p84CnvFE"
     mapping = "url"
     strict = 1
     reactionsEnabled = 1
