@@ -10,9 +10,9 @@ image = "luna_and_thestral.png"
 
 ---
 
-> Cover art by Pixiv artist [むしょく53](https://www.pixiv.net/users/39305766)  
+> Cover image by Pixiv artist [むしょく53](https://www.pixiv.net/users/39305766)  
 > Original title: [**セストラル** (Thestral)](https://www.pixiv.net/artworks/106239223)  
 > *ホグミスでついにセストラルを引き取ったので記念に。*  
-> *Finally adopted a Thestral in Hogwarts Legacy, so I drew this to commemorate it.* 🎨🪶
+> *Finally adopted a Thestral in Hogwarts Legacy, so I drew this to commemorate it.*  
 
 ![Luna & Thestral](luna_and_thestral.png)

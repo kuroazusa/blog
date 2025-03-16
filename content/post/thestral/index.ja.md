@@ -10,8 +10,8 @@ image = "luna_and_thestral.png"
 
 ---
 
-> 表紙イラストはPixivのイラストレーター [むしょく53](https://www.pixiv.net/en/users/39305766) さんより  
-> 元タイトル：[**セストラル**](https://www.pixiv.net/en/artworks/106239223)  
+> 表紙イラストはPixivのイラストレーター [むしょく53](https://www.pixiv.net/users/39305766) さんより  
+> 元タイトル：[**セストラル**](https://www.pixiv.net/artworks/106239223)  
 > ホグミスでついにセストラルを引き取ったので記念に。
 
 ![ルーナ と セストラル](luna_and_thestral.png)
