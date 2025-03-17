@@ -2,6 +2,9 @@
 title = "致某位友人·也致陌生的你"
 date = "2025-03-16"
 description = "“只有见过死亡的人才能看见夜骐。”"
+categories = [
+    "念"
+]
 image = "luna_and_thestral.png"
 +++
 

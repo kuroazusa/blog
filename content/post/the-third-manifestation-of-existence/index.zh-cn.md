@@ -3,7 +3,7 @@ title = "存在的第三态"
 date = "2025-03-02"
 description = "“空心病”：被困在似有似无的空白之中。"
 categories = [
-    "诗歌", "日常发癫"
+    "诗", "念"
 ]
 image = "The_Third_Manifestation_of_Existence_42ver.png"
 +++

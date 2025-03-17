@@ -3,7 +3,7 @@ title = "The Third Manifestation of Existence"
 date = "2025-03-02"
 description = "Anhedonia: Trapped in a vague almost nonexistent void."
 categories = [
-    "Poetry", "Chaos"
+    "Poem", "Whim"
 ]
 image = "The_Third_Manifestation_of_Existence_42ver.png"
 +++

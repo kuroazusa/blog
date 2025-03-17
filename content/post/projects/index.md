@@ -3,7 +3,7 @@ title = "Logging My Current Plans"
 date = "2025-03-10"
 desc = "Just a lil’ memo for myself, Gonna update this mess every now and then"
 categories = [
-    "About",
+    "Note",
 ]
 +++
 

@@ -3,7 +3,7 @@ title = "存在の第三顕現"
 date = "2025-03-02"
 description = "「空虚症」：有りて無き空白に囚われ"
 categories = [
-    "詩", "自己崩壊"
+    "言葉", "こころ"
 ]
 image = "The_Third_Manifestation_of_Existence_42ver.png"
 +++

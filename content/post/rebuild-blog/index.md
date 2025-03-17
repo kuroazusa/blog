@@ -3,7 +3,7 @@ title = "About Blog Rebuild"
 date = "2025-01-04"
 description = "Very bad blog vanished. Let me angry. 😡"
 categories = [
-    "about",
+    "Note",
 ]
 image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 +++
