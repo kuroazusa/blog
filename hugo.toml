@@ -1,8 +1,8 @@
-baseurl = "https://kuroazusa.github.io/blog/"
+baseurl = "https://blog.crepveant.moe/"
 languageCode = "en-us"
 theme = "hugo-theme-stack"
 title = "Crepvéant's Blog"
-copyright = "Crepvéant/黒川梓"
+copyright = "Crepvéant"
 DefaultContentLanguage = "en"
 hasCJKLanguage = true
 
