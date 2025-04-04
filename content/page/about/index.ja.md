@@ -26,5 +26,6 @@ menu:
 ふわふわで可愛いものが大好きで、「[<i>~~TECH OTAKUS SAVE THE WORLD!~~</i>](http://www.mihoyo.com/en)」と信じています。🐾
 
 **熱狂的で少し過激なAppleファン**です。現在はiPhone Xs MaxとMacBook Pro Early 2013を愛用しています。
+（2025年4月4日更新：新しいデバイスが登場 – Beats Fit Pro、Pixel 4XL、Xiaomi Smart Band 9）
 
 中国高校入試に向けて準備中ですが、のんびりと国際部進学を夢見ています。

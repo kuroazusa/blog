@@ -25,6 +25,6 @@ menu:
 
 喜欢一些温暖的柔软的可可爱爱的东西，然后认为[<i>~~技术宅拯救世界！~~</i>](https://www.mihoyo.com/)科技让生活变得更美好。  
 
-**狂热且极端的 Apple 粉丝**，目前正使用的设备是 iPhone Xs Max 和 MacBook Pro Early 2013。
+**狂热且极端的 Apple 粉丝**，目前正使用的设备是 iPhone Xs Max 和 MacBook Pro Early 2013。（2025.（2025/04/04：新出现的设备有Beats Fit Pro、Pixel 4XL 和 小米手环 9 ~~逐渐不纯净.jpg~~）
 
 正在准备中考并**懒惰**的空想自己可以进入国际部。
