@@ -26,6 +26,6 @@ Born and raised in Beijing. That said, please follow the UTC+8 normal human rout
 I have a soft spot for warm, fluffy, and cute things, which is why I believe that [<i>~~TECH OTAKUS SAVE THE WORLD!~~</i>](https://www.mihoyo.com/en) technology will make life even cozier. 🐾
 
 **Fanatic (and slightly extreme) Apple fan**, currently use iPhone Xs Max & MacBook Pro Early 2013.
-(2025/4/4 Update: New devices added – Beats Fit Pro, Pixel 4XL, and Xiaomi Smart Band 9 ~~becoming impure~~)
+(Apr 4, 2025 Update: New devices added – Beats Fit Pro, Pixel 4XL, and Xiaomi Smart Band 9 ~~becoming impure~~)
 
 Preparing for the CHSEE (China High School Entrance Exam) and working **LAZY** to get into the International Department right now.
